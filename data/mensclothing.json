@@ -1,0 +1,17 @@
+[
+{"BRAND": "Puma", "PRODUCTNAME": "Black-Gold Chain T-Shirt", "GRAPHICNAME": "bgchain_tshirt.png", "QTYONHAND": 100, "COSTPRICE": 70.0, "MSRP": 90.99, "DESCRIPTION": "Puma black T-shirt with graphic gold chain patterns."},
+{"BRAND": "Puma", "PRODUCTNAME": "White-Black Chain T-Shirt", "GRAPHICNAME": "wbchain_tshirt.png", "QTYONHAND": 90, "COSTPRICE": 70.0, "MSRP": 90.99, "DESCRIPTION": "Puma white T-shirt with graphic black chain patterns."},
+{"BRAND": "Puma", "PRODUCTNAME": "Black Elevated T-Shirt ", "GRAPHICNAME": "belevated_tshirt.png", "QTYONHAND": 60, "COSTPRICE": 75.0, "MSRP": 95.99,  "DESCRIPTION": "Puma black shirt with gray stairway shaped patterns."},
+{"BRAND": "Puma", "PRODUCTNAME": "Gold Elevated T-Shirt ", "GRAPHICNAME": "gelevated_tshirt.png", "QTYONHAND": 80, "COSTPRICE": 75.0, "MSRP": 95.99,  "DESCRIPTION": "Puma gold shirt with white stairway shaped patterns."},
+{"BRAND": "Puma", "PRODUCTNAME": "Puma Classic Logo Red Hoodie ", "GRAPHICNAME": "logo_redhoodie.png", "QTYONHAND": 200, "COSTPRICE": 100.0, "MSRP": 120.99, "DESCRIPTION": "Puma Red Hoodie with classic Puma white logo on the front."},
+{"BRAND": "Adidas", "PRODUCTNAME": "Adidas Adicolor Sweat Pants", "GRAPHICNAME": "adicolor_sweatpants.png", "QTYONHAND": 100, "COSTPRICE": 120.0, "MSRP": 140.99, "DESCRIPTION": "Adidas black sweatpants with adidas red and blue logo patterns."},
+{"BRAND": "Adidas", "PRODUCTNAME": "Adidas Trefoil Sweat Pants", "GRAPHICNAME": "trefoil_sweatpants.png", "QTYONHAND": 100, "COSTPRICE": 120.0, "MSRP": 140.99, "DESCRIPTION": "Adidas trefoil black sweatpants designed for extreme comfort and flexibility."},
+{"BRAND": "Adidas", "PRODUCTNAME": "Adidas Primeblue Tracksuit", "GRAPHICNAME": "primeblue_tracksuit.png", "QTYONHAND": 50, "COSTPRICE": 85.0, "MSRP": 105.99,  "DESCRIPTION": "Adidas primeblue tracksuit with classic adidas logo and design."},
+{"BRAND": "Adidas", "PRODUCTNAME": "Green Track Jacket", "GRAPHICNAME": "green_trackjacket.png", "QTYONHAND": 0, "QTYONBACKORDER": 100, "COSTPRICE": 110.0, "MSRP": 130.99,  "DESCRIPTION": "Adidas original green casual and sport track suit"},
+{"BRAND": "Adidas", "PRODUCTNAME": "The Simpons Firebird Track top", "GRAPHICNAME": "firebird_tracktop.png", "QTYONHAND": 10, "COSTPRICE": 110.0, "MSRP": 130.99,  "DESCRIPTION": "Adidas Simpsons themed firebird yellow and black track top"},
+{"BRAND": "Nike", "PRODUCTNAME": "Nike Blue & Pink Tie-Dye T-Shirt", "GRAPHICNAME": "bptiedye-tshirt.png", "QTYONHAND": 80, "COSTPRICE": 64.0, "MSRP": 84.99,  "DESCRIPTION": "Nike blue and pink tie-dye premium sportswear T-shirt"},
+{"BRAND": "Nike", "PRODUCTNAME": "Nike Greens Tie-Dye T-Shirt", "GRAPHICNAME": "gtiedye-tshirt.png", "QTYONHAND": 90, "COSTPRICE": 64.0, "MSRP": 84.99, "DESCRIPTION": "Nike various greens tie-dye premium sportswear T-shirt"},
+{"BRAND": "Nike", "PRODUCTNAME": "Nike Yellow & Red Tie-Dye T-Shirt", "GRAPHICNAME": "yrtiedye-tshirt.png", "QTYONHAND": 50, "COSTPRICE": 64.0, "MSRP": 84.99, "DESCRIPTION": "Nike yellow and red tie-dye premium sportswear T-shirt"},
+{"BRAND": "Nike", "PRODUCTNAME": "Nike Red Poolside Shorts", "GRAPHICNAME": "rps_shorts.png", "QTYONHAND": 100, "COSTPRICE": 64.0, "MSRP": 84.99, "DESCRIPTION": "Nike comfort and dry-fit red poolside shorts. Usable for swimming and sports."},
+{"BRAND": "Nike", "PRODUCTNAME": "Nike Black Poolside Shorts", "GRAPHICNAME": "bps_shorts.png", "QTYONHAND": 100, "COSTPRICE": 64.0, "MSRP": 84.99, "DESCRIPTION": "Nike comfort and dry-fit black poolside shorts. Usable for swimming and sports."}
+]
