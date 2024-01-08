@@ -31,9 +31,8 @@ cd dotshopplatform-backend/DotShopPlatform
 dotnet restore
 ```
 
-3. Restore the project dependencies, run the migrations to set up the database, and then start the backend server:
+3. Run the migrations to set up the database, and then start the backend server:
 ```bash
-dotnet restore
 dotnet ef database update
 dotnet run
 ```
