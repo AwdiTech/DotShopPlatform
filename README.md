@@ -58,32 +58,32 @@ Here's how to use the application with accompanying screenshots:
 ### Login Page
 
 User can log in using their credentials.  
-![https://i.imgur.com/ozGZk4v.png]
+![](https://i.imgur.com/ozGZk4v.png)
 
 ### Browsing Products
 
 Users can browse products by selecting different brands.  
-![https://i.imgur.com/TuJnWI0.png]
+![](https://i.imgur.com/TuJnWI0.png)
 
 ### Adding to Cart
 
 Items can be added to the cart for purchase.  
-![https://i.imgur.com/sJOlg5t.png]
+![](https://i.imgur.com/sJOlg5t.png)
 
 ### Viewing Cart and Checkout
 
 Users can review their cart and proceed to checkout.  
-![https://i.imgur.com/vpZammx.png]
+![](https://i.imgur.com/vpZammx.png)
 
 ### Order Confirmation
 
 Confirmation message upon successful order submission.  
-![https://i.imgur.com/yC97P0b.png]
+![](https://i.imgur.com/yC97P0b.png)
 
 ### Registration
 
 New users can register an account to start shopping.  
-![https://i.imgur.com/9MHAd8p.png]
+![](https://i.imgur.com/9MHAd8p.png)
 
 ---
 ## Code Overview
