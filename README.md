@@ -9,7 +9,6 @@ DotShopPlatform is a full-stack e-commerce application that demonstrates a compl
 - Product Browsing: Explore products by brands.
 - Cart Management: Add items to cart and manage them.
 - Checkout Process: Review cart contents and confirm orders.
-- Responsive Design: Compatible with various devices and screen sizes.
 
 ## Technologies Used
 - **Frontend**: Vue.js with Vite, PrimeVue UI Components
