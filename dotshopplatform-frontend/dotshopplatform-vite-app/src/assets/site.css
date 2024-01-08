@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+.container {
+    height: calc(90vh);
+    margin-top: 2vh;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: -0.5vw;
+    width: 100vw;
+    height: 6vh;
+    /* Set the fixed height of the footer here */
+    line-height: 5vh;
+    /* Vertically center the text there */
+    background-color: rgb(225, 255, 55);
+    color: black;
+    font-size: small;
+}
+
+.status {
+    font-size: 1.5rem;
+    margin: 2vh;
+    color: var(--primary-color);
+}
+
+.heading {
+    font-size: 2.5rem;
+    margin-top: 2vh;
+}
+
+.product-image {
+    width: 20vw;
+    margin: 0;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.dialog-product-image {
+    width: 60vw;
+    margin: 0;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.dialog-border {
+    border: solid;
+    margin: 2vw;
+    width: 96vw;
+}
+
+#qty {
+    height: 5vh !important;
+    font-size: small;
+    text-align: right;
+    width: 12vw;
+}
+
+.dialog-status {
+    font-size: 1rem;
+    margin: 1vh;
+    color: #ff4081;
+    text-align: center;
+}
+
+.p-toolbar {
+    background-color: var(--primary-color);
+    color: var(--primary-color-text);
+    width: 96vw;
+}
+
+.cartTotals {
+    font-size: 1.25rem;
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 1vh;
+    color: #e4004c;
+    text-align: right;
+}
+
+.p-field {
+    text-align: left;
+    width: 50vw;
+    margin-top: 3vh;
+    margin-left: 25vw;
+}

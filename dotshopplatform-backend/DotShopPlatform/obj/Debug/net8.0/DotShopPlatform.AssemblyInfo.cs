@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotShopPlatform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02173a98d7704c3e4e8e97e6b329ed9eaa815c9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotShopPlatform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotShopPlatform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
