@@ -19,7 +19,7 @@ namespace DotShopPlatform.DAL.DomainClasses
 		/// Navigation property for the associated brand.
 		/// </summary>
 		[ForeignKey("BrandId")]
-		public virtual Brand Brand { get; set; }
+		public Brand? Brand { get; set; }
 
 		/// <summary>
 		/// The identifier for the brand of this product.

@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using DotShopPlatform.DAL.DomainClasses;
 using DotShopPlatform.Helpers;
 using Microsoft.EntityFrameworkCore;
+using DotShopPlatform.APIHelpers;
 using Microsoft.Extensions.Logging;
 
 namespace DotShopPlatform.DAL.DAO
@@ -47,7 +48,7 @@ namespace DotShopPlatform.DAL.DAO
 
 						foreach (var selection in selections)
 						{
-							order.OrderAmount += selection.product.MSRP * selection.Qty;
+							order.OrderAmount += selection.Product.MSRP * selection.Quantity;
 						}
 
 						await _db.Orders.AddAsync(order);
@@ -57,13 +58,13 @@ namespace DotShopPlatform.DAL.DAO
 						{
 							OrderLineItem oItem = new OrderLineItem
 							{
-								ProductId = selection.product.Id,
+								ProductId = selection.Product.Id,
 								OrderId = order.Id,
-								SellingPrice = selection.product.MSRP,
-								QtyOrdered = selection.Qty
+								SellingPrice = selection.Product.MSRP,
+								QtyOrdered = selection.Quantity
 							};
 
-							var prod = await _db.Products.FindAsync(selection.product.Id);
+							var prod = await _db.Products.FindAsync(selection.Product.Id);
 							if (prod != null)
 							{
 								oItem.QtySold = Math.Min(oItem.QtyOrdered, prod.QtyOnHand);

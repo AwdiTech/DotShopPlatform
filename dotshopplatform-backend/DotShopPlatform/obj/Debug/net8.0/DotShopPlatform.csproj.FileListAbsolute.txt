@@ -36,9 +36,6 @@ C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotSho
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\System.CodeDom.dll
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -138,3 +135,4 @@ C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotSho
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\obj\Debug\net8.0\DotShopPlatform.pdb
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\obj\Debug\net8.0\DotShopPlatform.genruntimeconfig.cache
 C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\obj\Debug\net8.0\ref\DotShopPlatform.dll
+C:\Rayra\Programming\web-projects\DotShopPlatform\dotshopplatform-backend\DotShopPlatform\obj\Debug\net8.0\DotShopPlatform.sourcelink.json
