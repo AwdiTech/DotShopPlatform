@@ -48,6 +48,8 @@ npm install
 npm run dev
 ```
 
+Then simply navigate to localhost:3000 or whichever configured port used for the for Front-End.
+
 
 ---
 ## Using the Application
