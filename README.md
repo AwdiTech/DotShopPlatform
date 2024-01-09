@@ -12,7 +12,7 @@ DotShopPlatform is a full-stack e-commerce application that demonstrates a compl
 
 ## Technologies Used
 - **Frontend**: Vue.js with Vite, PrimeVue UI Components
-- **Backend**: .NET 6, Entity Framework Core, SQL Server
+- **Backend**: .NET 8, Entity Framework Core, SQL Server
 - **APIs**: RESTful API design
 
 
